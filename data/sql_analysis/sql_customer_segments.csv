@@ -1,0 +1,4 @@
+customer_segment,orders,customers,sales,profit,profit_margin_percent,average_order_value
+Consumer,45013,14208,62880361.09,14495798.88,23.05,1396.94
+Small Business,18745,10725,25964031.94,6002869.56,23.12,1385.12
+Corporate,11242,7929,15261379.48,3561687.32,23.34,1357.53

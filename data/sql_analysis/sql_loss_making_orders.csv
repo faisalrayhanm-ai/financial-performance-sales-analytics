@@ -1,0 +1,21 @@
+order_id,order_date,region,sales_channel,product_category,product,discount,sales,cost,profit
+O018377,2024-10-17 00:00:00.000000,East,Retail Store,Electronics,Laptop,0.25,11646.13,13296.0,-1649.87
+O056589,2025-10-10 00:00:00.000000,South,Retail Store,Electronics,Headphones,0.25,9674.93,10829.65,-1154.72
+O039611,2023-07-15 00:00:00.000000,Central,Wholesale,Electronics,Monitor,0.25,8654.79,9733.75,-1078.96
+O027939,2023-06-23 00:00:00.000000,North,Retail Store,Electronics,Smartphone,0.25,7052.12,8015.91,-963.79
+O006454,2023-08-10 00:00:00.000000,West,Retail Store,Electronics,Headphones,0.25,7902.75,8755.1,-852.35
+O045127,2023-08-24 00:00:00.000000,West,Online,Electronics,Tablet,0.25,6713.36,7530.15,-816.79
+O070459,2025-11-21 00:00:00.000000,East,Retail Store,Electronics,Tablet,0.25,7091.84,7884.85,-793.01
+O007074,2023-10-17 00:00:00.000000,West,Retail Store,Electronics,Smartphone,0.2,9214.12,9997.32,-783.2
+O007248,2023-12-16 00:00:00.000000,Central,Online,Electronics,Laptop,0.25,11175.3,11951.1,-775.8
+O061488,2024-12-09 00:00:00.000000,South,Retail Store,Electronics,Monitor,0.25,5257.77,6028.91,-771.14
+O039668,2023-10-19 00:00:00.000000,East,Online,Electronics,Monitor,0.25,12726.85,13464.92,-738.07
+O046915,2023-05-12 00:00:00.000000,Central,Retail Store,Electronics,Monitor,0.2,13238.81,13971.63,-732.82
+O023860,2023-12-12 00:00:00.000000,West,Retail Store,Electronics,Smartphone,0.2,9560.95,10242.34,-681.39
+O074752,2024-07-16 00:00:00.000000,South,Online,Electronics,Monitor,0.25,10289.63,10970.37,-680.74
+O005674,2025-11-08 00:00:00.000000,West,Retail Store,Electronics,Tablet,0.25,4430.98,5103.02,-672.03
+O047349,2025-07-03 00:00:00.000000,West,Retail Store,Electronics,Headphones,0.25,4642.04,5296.0,-653.96
+O066524,2024-10-23 00:00:00.000000,West,Retail Store,Electronics,Tablet,0.25,7477.34,8118.25,-640.91
+O029254,2024-05-09 00:00:00.000000,South,Online,Electronics,Laptop,0.25,6469.52,7082.19,-612.66
+O067403,2024-12-06 00:00:00.000000,East,Online,Electronics,Smartphone,0.25,6976.18,7582.01,-605.83
+O051910,2025-08-03 00:00:00.000000,North,Retail Store,Electronics,Laptop,0.25,6806.69,7390.38,-583.69

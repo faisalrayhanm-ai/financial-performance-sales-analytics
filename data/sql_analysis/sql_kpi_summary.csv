@@ -1,0 +1,2 @@
+total_orders,unique_customers,total_quantity,total_sales,total_cost,total_profit,average_order_value,average_discount_percent,profit_margin_percent,loss_making_orders
+75000,14899,215287,104105772.51,80045417.19,24060355.76,1388.08,7.88,23.11,942
